@@ -1,0 +1,3 @@
+[submodule "glerm"]
+	path = glerm
+	url = git@github.com:kentaromiura/glerm.git
